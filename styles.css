@@ -1,0 +1,32 @@
+img {
+width: 200px;
+height: auto;
+position: left;
+border-radius: 25px;
+}
+.nombre {
+    font-family: 'Ubuntu', Courier, monospace;
+    text-align: center;
+}
+body{
+    background-color: #00b4d8;
+}
+div {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    padding-inline: 10px;
+}
+.instagram {
+    background-color:#C13584 ;
+    border-radius: 5px;
+}
+.facebook {
+    background-color: #3b5998;
+    border-radius: 5px;
+}
+.slack {
+    background-color: #3b5998;
+    border-radius: 5px;
+}
